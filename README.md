@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - :electric_plug: I'm currently learning Software Development at 42 Lisbon School. 
-- 🔭 This page is where i will be sharing my projects. 
-- :performing_arts: I'm currently working as Doctor in Child and Adolescent Psychiatry.  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpimenta42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
