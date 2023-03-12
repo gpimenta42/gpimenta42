@@ -1,4 +1,4 @@
-:technologist: Software Development at 
+:technologist: learning Software Development at 
 
 ![aryjk-78u1r](https://user-images.githubusercontent.com/87911989/224546159-1cc10894-0f78-4eaa-8661-f98325829323.png)
 
