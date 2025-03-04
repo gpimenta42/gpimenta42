@@ -6,7 +6,3 @@
 ##### :white_check_mark: MD, Nova Medical School, 2012-2018
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpimenta42&langs_count=8)
-
-
-
