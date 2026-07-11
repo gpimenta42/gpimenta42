@@ -1,12 +1,5 @@
 # Gaspar Pimenta Pereira
 
-## Contents
-
-- [About](#about)
-- [Featured Projects](#featured-projects)
-- [Education](#education)
-- [Contact](#contact)
-
 ## About
 
 - Doctor of Medicine background, now focused on applied data science and AI.
@@ -15,11 +8,11 @@
 
 ## Featured Projects
 
-| Context | Subject | Project | Main skills demonstrated | Repository |
-| --- | --- | --- | --- | --- |
-| Master's project | Computer Vision / Deep Learning | Rare species family classification | TensorFlow, Keras, EfficientNetV2B1, image + tabular modeling, macro F1 evaluation | [rare-species-family-classification](https://github.com/gpimenta42/rare-species-family-classification) |
-| Master's project | Reinforcement Learning | LunarLander and CarRacing RL agents | Gymnasium, PyTorch, DQN, Rainbow-DQN, PPO, SAC, policy evaluation | [lunarlander-carracing-rl-agents](https://github.com/gpimenta42/lunarlander-carracing-rl-agents) |
-| Master's thesis | Medical AI / LLM reasoning | Thesis project in progress | Medical background, LLM evaluation, baseline comparison, reasoning analysis | In progress |
+| Context | Subject | Project | Repository |
+| --- | --- | --- | --- |
+| Master's project | Computer Vision / Deep Learning | Rare species family classification | [rare-species-family-classification](https://github.com/gpimenta42/rare-species-family-classification) |
+| Master's project | Reinforcement Learning | LunarLander and CarRacing RL agents | [lunarlander-carracing-rl-agents](https://github.com/gpimenta42/lunarlander-carracing-rl-agents) |
+| Master's thesis | Medical AI / LLM reasoning | Thesis project in progress | In progress |
 
 ## Education
 
