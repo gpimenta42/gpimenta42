@@ -16,6 +16,12 @@
     <th>Repository</th>
   </tr>
   <tr>
+    <td>Master's thesis</td>
+    <td>Medical AI / LLM reasoning</td>
+    <td>Implicit case learning for medical reasoning</td>
+    <td><a href="https://github.com/gpimenta42/implicit-case-learning-medical-reasoning">implicit-case-learning-medical-reasoning</a></td>
+  </tr>
+  <tr>
     <td rowspan="4">Master's project</td>
     <td>Computer Vision</td>
     <td>Rare species family classification</td>
@@ -35,12 +41,6 @@
     <td>Machine Learning</td>
     <td>Claim injury type prediction</td>
     <td><a href="https://github.com/gpimenta42/ML_project">ML_project</a></td>
-  </tr>
-  <tr>
-    <td>Master's thesis</td>
-    <td>Medical AI / LLM reasoning</td>
-    <td>Implicit case learning for medical reasoning</td>
-    <td><a href="https://github.com/gpimenta42/implicit-case-learning-medical-reasoning">implicit-case-learning-medical-reasoning</a></td>
   </tr>
 </table>
 
