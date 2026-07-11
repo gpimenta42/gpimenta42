@@ -29,8 +29,8 @@
   <tr>
     <td>Master's thesis</td>
     <td>Medical AI / LLM reasoning</td>
-    <td>Thesis project in progress</td>
-    <td>In progress</td>
+    <td>Implicit case learning for medical reasoning</td>
+    <td><a href="https://github.com/gpimenta42/implicit-case-learning-medical-reasoning">implicit-case-learning-medical-reasoning</a></td>
   </tr>
 </table>
 
