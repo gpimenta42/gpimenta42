@@ -32,7 +32,7 @@
     <td><a href="https://github.com/gpimenta42/TM_project">TM_project</a></td>
   </tr>
   <tr>
-    <td>Machine Learning (Tabular Classification)</td>
+    <td>Machine Learning</td>
     <td>Claim injury type prediction</td>
     <td><a href="https://github.com/gpimenta42/ML_project">ML_project</a></td>
   </tr>
