@@ -1,6 +1,6 @@
 # Gaspar Pimenta Pereira
 
-MSc Data Science and Advanced Analytics student at NOVA IMS with a background in Medicine. I use this GitHub profile to organize data science, machine learning, deep learning, and reinforcement learning projects with reproducible code, evaluation metrics, and clear project documentation.
+MSc Data Science and Advanced Analytics student at NOVA IMS with a Doctor of Medicine background. I use this GitHub profile to organize data science, machine learning, deep learning, and reinforcement learning projects with reproducible code, evaluation metrics, and clear project documentation.
 
 ## Contents
 
@@ -12,7 +12,7 @@ MSc Data Science and Advanced Analytics student at NOVA IMS with a background in
 
 ## About
 
-- Background in Medicine, now focused on applied data science and AI.
+- Doctor of Medicine background, now focused on applied data science and AI.
 - MSc work includes computer vision, reinforcement learning, model evaluation, and research-oriented machine learning workflows.
 - Interested in medical AI, deep learning, interpretable evaluation, and practical ML systems.
 
@@ -40,8 +40,9 @@ MSc Data Science and Advanced Analytics student at NOVA IMS with a background in
 - MSc Data Science and Advanced Analytics, NOVA IMS, 2024-ongoing
 - Data Science Starters Academy, Lisbon Data Science Academy, 2023-2024
 - Junior Software Development (4/6 levels), 42 Lisbon, 2022-2023
-- Background in Medicine
+- Doctor of Medicine, 2012-2018
 
 ## Contact
 
 - GitHub: [gpimenta42](https://github.com/gpimenta42)
+- Email: [gasparpimenta93@gmail.com](mailto:gasparpimenta93@gmail.com)
