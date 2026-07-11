@@ -8,11 +8,31 @@
 
 ## Featured Projects
 
-| Context | Subject | Project | Repository |
-| --- | --- | --- | --- |
-| Master's project | Computer Vision / Deep Learning | Rare species family classification | [rare-species-family-classification](https://github.com/gpimenta42/rare-species-family-classification) |
-| Master's project | Reinforcement Learning | LunarLander and CarRacing RL agents | [lunarlander-carracing-rl-agents](https://github.com/gpimenta42/lunarlander-carracing-rl-agents) |
-| Master's thesis | Medical AI / LLM reasoning | Thesis project in progress | In progress |
+<table>
+  <tr>
+    <th>Context</th>
+    <th>Subject</th>
+    <th>Project</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Master's project</td>
+    <td>Computer Vision / Deep Learning</td>
+    <td>Rare species family classification</td>
+    <td><a href="https://github.com/gpimenta42/rare-species-family-classification">rare-species-family-classification</a></td>
+  </tr>
+  <tr>
+    <td>Reinforcement Learning</td>
+    <td>LunarLander and CarRacing RL agents</td>
+    <td><a href="https://github.com/gpimenta42/lunarlander-carracing-rl-agents">lunarlander-carracing-rl-agents</a></td>
+  </tr>
+  <tr>
+    <td>Master's thesis</td>
+    <td>Medical AI / LLM reasoning</td>
+    <td>Thesis project in progress</td>
+    <td>In progress</td>
+  </tr>
+</table>
 
 ## Education
 
