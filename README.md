@@ -22,6 +22,12 @@
     <td><a href="https://github.com/gpimenta42/implicit-case-learning-medical-reasoning">implicit-case-learning-medical-reasoning</a></td>
   </tr>
   <tr>
+    <td>Teaching assistant</td>
+    <td>Data Mining</td>
+    <td>Course materials and practical support</td>
+    <td><a href="https://github.com/fpontejos/Data-Mining-25-26">Data-Mining-25-26</a></td>
+  </tr>
+  <tr>
     <td rowspan="4">Master's project</td>
     <td>Computer Vision</td>
     <td>Rare species family classification</td>
