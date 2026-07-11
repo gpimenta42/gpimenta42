@@ -42,6 +42,17 @@
     <td>Claim injury type prediction</td>
     <td><a href="https://github.com/gpimenta42/ML_project">ML_project</a></td>
   </tr>
+  <tr>
+    <td rowspan="2">42 Lisbon</td>
+    <td>Systems programming</td>
+    <td>Minishell</td>
+    <td><a href="https://github.com/gpimenta42/42cursus_22-23">42cursus_22-23</a></td>
+  </tr>
+  <tr>
+    <td>C graphics / game programming</td>
+    <td>so_long</td>
+    <td><a href="https://github.com/gpimenta42/42cursus_22-23">42cursus_22-23</a></td>
+  </tr>
 </table>
 
 ## Education
