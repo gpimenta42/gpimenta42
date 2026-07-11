@@ -64,6 +64,5 @@
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-gpimenta42-181717?logo=github)](https://github.com/gpimenta42)
 [![Email](https://img.shields.io/badge/Email-gasparpimenta93%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gasparpimenta93@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaspar%20Pereira-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspar-pereira-89879a130)
