@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td rowspan="4">Master's project</td>
-    <td>Computer Vision / Deep Learning</td>
+    <td>Computer Vision</td>
     <td>Rare species family classification</td>
     <td><a href="https://github.com/gpimenta42/rare-species-family-classification">rare-species-family-classification</a></td>
   </tr>
@@ -27,12 +27,12 @@
     <td><a href="https://github.com/gpimenta42/lunarlander-carracing-rl-agents">lunarlander-carracing-rl-agents</a></td>
   </tr>
   <tr>
-    <td>Text Mining / NLP</td>
+    <td>Text Mining</td>
     <td>Financial tweets sentiment analysis</td>
     <td><a href="https://github.com/gpimenta42/TM_project">TM_project</a></td>
   </tr>
   <tr>
-    <td>Machine Learning / Tabular Classification</td>
+    <td>Machine Learning (Tabular Classification)</td>
     <td>Claim injury type prediction</td>
     <td><a href="https://github.com/gpimenta42/ML_project">ML_project</a></td>
   </tr>
