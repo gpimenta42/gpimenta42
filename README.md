@@ -41,7 +41,7 @@
   <tr>
     <td>Text Mining</td>
     <td>Financial tweets sentiment analysis</td>
-    <td><a href="https://github.com/gpimenta42/TM_project">TM_project</a></td>
+    <td><a href="https://github.com/gpimenta42/financial-tweets-sentiment-analysis">financial-tweets-sentiment-analysis</a></td>
   </tr>
   <tr>
     <td>Machine Learning</td>
