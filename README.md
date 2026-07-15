@@ -50,11 +50,11 @@
     <td><a href="https://github.com/gpimenta42/lunarlander-carracing-rl-agents">lunarlander-carracing-rl-agents</a></td>
   </tr>
   <tr>
-    <td>Text Mining</td>
+    <td>Natural Language Processing / Text Mining</td>
     <td><a href="https://github.com/gpimenta42/financial-tweets-sentiment-analysis">financial-tweets-sentiment-analysis</a></td>
   </tr>
   <tr>
-    <td>Machine Learning</td>
+    <td>Tabular Machine Learning</td>
     <td><a href="https://github.com/gpimenta42/workers-compensation-claim-classification">workers-compensation-claim-classification</a></td>
   </tr>
 </table>
