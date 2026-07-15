@@ -17,6 +17,8 @@
 
 ## Master's Thesis and Projects
 
+<div align="center">
+
 <table>
   <tr>
     <th>Context</th>
@@ -53,11 +55,15 @@
   </tr>
 </table>
 
+</div>
+
 ## Teaching Materials
 
 - Teaching assistant, Data Mining 2025-2026: [course materials and practical support](https://github.com/fpontejos/Data-Mining-25-26).
 
 ## 42 Lisbon Projects
+
+<div align="center">
 
 <table>
   <tr>
@@ -78,3 +84,5 @@
     <td><a href="https://github.com/gpimenta42/42cursus_22-23">42cursus_22-23</a></td>
   </tr>
 </table>
+
+</div>
