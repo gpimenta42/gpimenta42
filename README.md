@@ -45,8 +45,8 @@
   </tr>
   <tr>
     <td>Machine Learning</td>
-    <td>Claim injury type prediction</td>
-    <td><a href="https://github.com/gpimenta42/ML_project">ML_project</a></td>
+    <td>Workers' compensation claim classification</td>
+    <td><a href="https://github.com/gpimenta42/workers-compensation-claim-classification">workers-compensation-claim-classification</a></td>
   </tr>
 </table>
 
