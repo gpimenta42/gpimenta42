@@ -51,6 +51,27 @@
 
 </div>
 
+## Lisbon Data Science Academy Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Subject</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
+    <td>Time series</td>
+    <td><a href="https://github.com/gpimenta42/energy-production-time-series-forecasting">energy-production-time-series-forecasting</a></td>
+  </tr>
+  <tr>
+    <td>Fairness model deployment</td>
+    <td><a href="https://github.com/gpimenta42/recidivism-fairness-model-deployment">recidivism-fairness-model-deployment</a></td>
+  </tr>
+</table>
+
+</div>
+
 ## Teaching Materials
 
 - Teaching assistant, Data Mining 2025-2026: [course materials and practical support](https://github.com/fpontejos/Data-Mining-25-26).
