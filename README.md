@@ -6,7 +6,7 @@
 - MSc work includes computer vision, reinforcement learning, model evaluation, and research-oriented machine learning workflows.
 - Interested in medical AI, deep learning, interpretable evaluation, and practical ML systems.
 
-## Academic Projects and Teaching
+## Master's Thesis and Projects
 
 <table>
   <tr>
@@ -20,12 +20,6 @@
     <td>LLM test-time scaling</td>
     <td>Implicit case learning for medical reasoning</td>
     <td><a href="https://github.com/gpimenta42/implicit-case-learning-medical-reasoning">implicit-case-learning-medical-reasoning</a></td>
-  </tr>
-  <tr>
-    <td>Teaching assistant</td>
-    <td>Data Mining</td>
-    <td>Course materials and practical support</td>
-    <td><a href="https://github.com/fpontejos/Data-Mining-25-26">Data-Mining-25-26</a></td>
   </tr>
   <tr>
     <td rowspan="4">Master's project</td>
@@ -49,6 +43,10 @@
     <td><a href="https://github.com/gpimenta42/workers-compensation-claim-classification">workers-compensation-claim-classification</a></td>
   </tr>
 </table>
+
+## Teaching Materials
+
+- Teaching assistant, Data Mining 2025-2026: [course materials and practical support](https://github.com/fpontejos/Data-Mining-25-26).
 
 ## 42 Lisbon Projects
 
