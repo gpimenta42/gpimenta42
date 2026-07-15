@@ -11,9 +11,9 @@
 
 ## About
 
-- Doctor of Medicine background, now focused on applied data science and AI.
-- MSc work includes computer vision, reinforcement learning, model evaluation, and research-oriented machine learning workflows.
-- Interested in medical AI, deep learning, interpretable evaluation, and practical ML systems.
+- Doctor of Medicine background.
+- MSc in Data Science, NOVA IMS, Lisbon.
+- Interested in medical AI, machine learning, and reinforcement learning.
 
 ## Master's Thesis and Projects
 
