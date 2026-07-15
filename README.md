@@ -6,7 +6,7 @@
 - MSc work includes computer vision, reinforcement learning, model evaluation, and research-oriented machine learning workflows.
 - Interested in medical AI, deep learning, interpretable evaluation, and practical ML systems.
 
-## Featured Projects
+## Academic Projects and Teaching
 
 <table>
   <tr>
@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>Master's thesis</td>
-    <td>Medical AI / LLM reasoning</td>
+    <td>LLM test-time scaling</td>
     <td>Implicit case learning for medical reasoning</td>
     <td><a href="https://github.com/gpimenta42/implicit-case-learning-medical-reasoning">implicit-case-learning-medical-reasoning</a></td>
   </tr>
@@ -48,14 +48,25 @@
     <td>Claim injury type prediction</td>
     <td><a href="https://github.com/gpimenta42/ML_project">ML_project</a></td>
   </tr>
+</table>
+
+## 42 Lisbon Projects
+
+<table>
+  <tr>
+    <th>Context</th>
+    <th>Subject</th>
+    <th>Project</th>
+    <th>Repository</th>
+  </tr>
   <tr>
     <td rowspan="2">42 Lisbon</td>
-    <td>Systems programming</td>
+    <td>Systems programming (C)</td>
     <td>Minishell</td>
     <td><a href="https://github.com/gpimenta42/42cursus_22-23">42cursus_22-23</a></td>
   </tr>
   <tr>
-    <td>C graphics / game programming</td>
+    <td>Game programming (C)</td>
     <td>so_long</td>
     <td><a href="https://github.com/gpimenta42/42cursus_22-23">42cursus_22-23</a></td>
   </tr>
