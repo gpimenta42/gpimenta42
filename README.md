@@ -23,34 +23,28 @@
   <tr>
     <th>Context</th>
     <th>Subject</th>
-    <th>Project</th>
     <th>Repository</th>
   </tr>
   <tr>
     <td>Master's thesis</td>
     <td>LLM test-time scaling</td>
-    <td>Implicit case learning for medical reasoning</td>
     <td><a href="https://github.com/gpimenta42/implicit-case-learning-medical-reasoning">implicit-case-learning-medical-reasoning</a></td>
   </tr>
   <tr>
     <td rowspan="4">Master's project</td>
     <td>Computer Vision</td>
-    <td>Rare species family classification</td>
     <td><a href="https://github.com/gpimenta42/rare-species-family-classification">rare-species-family-classification</a></td>
   </tr>
   <tr>
     <td>Reinforcement Learning</td>
-    <td>LunarLander and CarRacing RL agents</td>
     <td><a href="https://github.com/gpimenta42/lunarlander-carracing-rl-agents">lunarlander-carracing-rl-agents</a></td>
   </tr>
   <tr>
     <td>Text Mining</td>
-    <td>Financial tweets sentiment analysis</td>
     <td><a href="https://github.com/gpimenta42/financial-tweets-sentiment-analysis">financial-tweets-sentiment-analysis</a></td>
   </tr>
   <tr>
     <td>Machine Learning</td>
-    <td>Workers' compensation claim classification</td>
     <td><a href="https://github.com/gpimenta42/workers-compensation-claim-classification">workers-compensation-claim-classification</a></td>
   </tr>
 </table>
