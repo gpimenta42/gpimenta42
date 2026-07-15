@@ -1,4 +1,13 @@
-# Gaspar Pimenta Pereira
+<h1 align="center">Gaspar Pimenta Pereira</h1>
+
+<p align="center">
+  <a href="mailto:gasparpimenta93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/gaspar-pereira-89879a130">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ## About
 
@@ -69,15 +78,3 @@
     <td><a href="https://github.com/gpimenta42/42cursus_22-23">42cursus_22-23</a></td>
   </tr>
 </table>
-
-## Education
-
-- MSc Data Science and Advanced Analytics, NOVA IMS, 2024-ongoing
-- Data Science Starters Academy, Lisbon Data Science Academy, 2023-2024
-- Junior Software Development (4/6 levels), 42 Lisbon, 2022-2023
-- Doctor of Medicine, 2012-2018
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-gasparpimenta93%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gasparpimenta93@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaspar%20Pereira-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspar-pereira-89879a130)
