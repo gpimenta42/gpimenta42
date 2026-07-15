@@ -15,23 +15,33 @@
 - MSc in Data Science, NOVA IMS, Lisbon.
 - Interested in medical AI, machine learning, and reinforcement learning.
 
-## Master's Thesis and Projects
+## Master's Thesis
 
 <div align="center">
 
 <table>
   <tr>
-    <th>Context</th>
     <th>Subject</th>
     <th>Repository</th>
   </tr>
   <tr>
-    <td>Master's thesis</td>
     <td>LLM test-time scaling</td>
     <td><a href="https://github.com/gpimenta42/implicit-case-learning-medical-reasoning">implicit-case-learning-medical-reasoning</a></td>
   </tr>
+</table>
+
+</div>
+
+## Master's Projects
+
+<div align="center">
+
+<table>
   <tr>
-    <td rowspan="4">Master's project</td>
+    <th>Subject</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
     <td>Computer Vision</td>
     <td><a href="https://github.com/gpimenta42/rare-species-family-classification">rare-species-family-classification</a></td>
   </tr>
@@ -61,11 +71,11 @@
     <th>Repository</th>
   </tr>
   <tr>
-    <td>Time series</td>
+    <td>Time series forecasting</td>
     <td><a href="https://github.com/gpimenta42/energy-production-time-series-forecasting">energy-production-time-series-forecasting</a></td>
   </tr>
   <tr>
-    <td>Fairness model deployment</td>
+    <td>Fairness-aware model deployment</td>
     <td><a href="https://github.com/gpimenta42/recidivism-fairness-model-deployment">recidivism-fairness-model-deployment</a></td>
   </tr>
 </table>
